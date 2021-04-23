@@ -3,8 +3,12 @@
 
 Данный репозиторий содержит код к одноименной статье [SIRR, не соизволите ли удалить отражение?](<span style="color:red">TODO add link</span>).  
 
-Структура репозитория:  
+Основные файлы:  
 datasphere.ipynb - ноутбук "все включено" для запуска на [Yandex.Cloud Datasphere](https://cloud.yandex.ru/services/datasphere)
+
+Дополнительно:  
+article_images - папка с поясняющими изображениями из статьи и ноутбуков
+
 
 ----
 
@@ -14,6 +18,9 @@ datasphere.ipynb - ноутбук "все включено" для запуск�
 
 This repository contains code for the article (in russian): [SIRR, не соизволите ли удалить отражение?](<span style="color:red">TODO add link</span>).
 
-Repository structure:  
+Main files:  
 datasphere.ipynb - all-in-one notebook made for running on [Yandex.Cloud Datasphere](https://cloud.yandex.com/en-ru/services/datasphere) (comments are in russian)
+
+Extra:  
+article_images - directory containing images from the article and the notebooks
 
