@@ -4,6 +4,7 @@
 Данный репозиторий содержит код к одноименной статье [SIRR, не соизволите ли удалить отражение?](<span style="color:red">TODO add link</span>).  
 
 Основные файлы:  
+DATASPHERE.md - гайд по запуску кода на [Yandex.Cloud Datasphere](https://cloud.yandex.ru/services/datasphere)  
 datasphere.ipynb - ноутбук "все включено" для запуска на [Yandex.Cloud Datasphere](https://cloud.yandex.ru/services/datasphere)
 
 Дополнительно:  
@@ -19,6 +20,7 @@ article_images - папка с поясняющими изображениями
 This repository contains code for the article (in russian): [SIRR, не соизволите ли удалить отражение?](<span style="color:red">TODO add link</span>).
 
 Main files:  
+DATASPHERE.md - a guide on how to start running code on [Yandex.Cloud Datasphere](https://cloud.yandex.com/en-ru/services/datasphere)  
 datasphere.ipynb - all-in-one notebook made for running on [Yandex.Cloud Datasphere](https://cloud.yandex.com/en-ru/services/datasphere) (comments are in russian)
 
 Extra:  
