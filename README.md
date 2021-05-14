@@ -6,6 +6,7 @@
 Основные файлы:  
 DATASPHERE.md - гайд по запуску кода на [Yandex.Cloud Datasphere](https://cloud.yandex.ru/services/datasphere)  
 datasphere.ipynb - ноутбук "все включено" для запуска на [Yandex.Cloud Datasphere](https://cloud.yandex.ru/services/datasphere)
+google_colab.ipynb - ноутбук "все включено" для запуска на [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb)
 
 Дополнительно:  
 article_images - папка с поясняющими изображениями из статьи и ноутбуков
@@ -21,7 +22,8 @@ This repository contains code for the article (in russian): [SIRR, не соиз
 
 Main files:  
 DATASPHERE.md - a guide on how to start running code on [Yandex.Cloud Datasphere](https://cloud.yandex.com/en-ru/services/datasphere)  
-datasphere.ipynb - all-in-one notebook made for running on [Yandex.Cloud Datasphere](https://cloud.yandex.com/en-ru/services/datasphere) (comments are in russian)
+datasphere.ipynb - all-in-one notebook made for running on [Yandex.Cloud Datasphere](https://cloud.yandex.com/en-ru/services/datasphere) (comments are in russian)  
+google_colab.ipynb - all-in-one notebook made for running on [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb) (comments are in russian)
 
 Extra:  
 article_images - directory containing images from the article and the notebooks
