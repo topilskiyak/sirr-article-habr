@@ -14,7 +14,7 @@
 
 ----
 
-# SIRR, would you deign to remove the reflection?
+# SIRR, would you kindly remove the reflection?
 
 **TLDR:** We remove reflections using a convolutional neural network trained on a synthetic dataset.
 
